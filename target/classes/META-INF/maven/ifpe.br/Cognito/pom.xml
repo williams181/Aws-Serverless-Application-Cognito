@@ -71,8 +71,6 @@
 		    <version>1.12.398</version>
 		</dependency>
 
-
-
 	</dependencies>
 
   <build>
